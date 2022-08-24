@@ -1,1 +1,1 @@
-# eth-instagram
+# ethereum-instagram
